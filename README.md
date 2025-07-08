@@ -37,6 +37,7 @@ GymPass style app
 npm i typescript @types/node tsx tsup -D
 
 ## bibliotecas de execução do projeto
+npm i fastify : servidor http
 
 ## Passos de execução de comandos
 npm init -y : inicializa o projeto
