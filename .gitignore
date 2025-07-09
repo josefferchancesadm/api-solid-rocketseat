@@ -27,3 +27,4 @@ coverage/
 *.swm
 *.swp
 *.swo           
+/generated/prisma
