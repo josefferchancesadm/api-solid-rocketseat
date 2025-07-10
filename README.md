@@ -42,3 +42,19 @@ npm i fastify : servidor http
 ## Passos de execução de comandos
 npm init -y : inicializa o projeto
 npx tsc --init : inicializa um projeto TypeScript gerando o arquivo tsconfig.json
+
+## Prisma
+npx prisma generate
+npx prisma migrate
+npx prisma migrate dev
+npx prisma studio
+
+## Docker
+docker ps
+docker ps -a
+docker start [imagem]
+docker stop [imagem]
+docker logs [image]
+docker-compose up -d
+docker-compose stop
+ 
